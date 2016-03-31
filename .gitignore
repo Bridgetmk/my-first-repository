@@ -1,2 +1,2 @@
-# Ignore all sqlite databases
+# Ignore all sqlite databases in git_basics
 db/*.sqlite3
